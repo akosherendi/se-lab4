@@ -1,0 +1,2 @@
+SUCCESS # ship initialized
+SUCCESS # there was torpedos so ship can fire
