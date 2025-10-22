@@ -1,0 +1,2 @@
+GT4500,0,0,0,0 # we have a ship but no torpedos
+TORPEDO,SINGLE # try to fire

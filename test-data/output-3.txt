@@ -1,0 +1,2 @@
+SUCCESS # ship initialized
+FAIL # stores are empty so we cannot fire

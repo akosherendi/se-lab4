@@ -1,0 +1,2 @@
+GT4500,10,0,10,0 # ship initialized with no empty stores
+TORPEDO,ALL # fire all of the torpedos from stores
